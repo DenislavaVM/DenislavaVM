@@ -19,7 +19,7 @@ I'm a Frontend Developer who loves turning ideas into intuitive and accessible u
 |--------|-------------|------|------|
 | **Weatherly** | Real-time weather app with forecast, city search, dark mode | [Live](https://weatherly-tau-three.vercel.app/) | [Repo](https://github.com/DenislavaVM/weatherly) |
 | **Notes Hub** | Full-featured MERN app for note management with JWT auth, tagging, reminders, and dark mode UI | [Live](https://notes-hub-mern.vercel.app/) | [Repo](https://github.com/DenislavaVM/NotesHub-MERN) |
-| **Spotify Clone** | Modern fullstack music app with real-time chat and admin dashboard | [Live](https://spotify-clone-orcin-psi.vercel.app/) | [Repo](https://github.com/DenislavaVM/spotify-clone) |
+| **Spotify Clone** | Modern fullstack music app with real-time chat and admin dashboard | [Live](spotify-clone.vercel.app) | [Repo](https://github.com/DenislavaVM/spotify-clone) |
 | **Tic-Tac-Toe AI** | Classic game with AI (Minimax), keyboard control, responsive UI | [Live](https://denislavavm.github.io/TicTacToe/) | [Repo](https://github.com/DenislavaVM/TicTacToe) |
 
 ---
