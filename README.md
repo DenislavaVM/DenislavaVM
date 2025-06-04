@@ -38,5 +38,5 @@ I'm a Frontend Developer who loves turning ideas into intuitive and accessible u
 ### 📫 Let's Connect!
 
 - 📧 Email: [denislavavmilanova@outlook.com](mailto:denislavavmilanova@outlook.com)
-- 🌐 Portfolio: [Visit Website](https://denislavavm.github.io/)
+- 🌐 Portfolio: [Visit Website](https://denislavavm.github.io/portfolio-website)
 - 🐙 GitHub: [@DenislavaVM](https://github.com/DenislavaVM)
